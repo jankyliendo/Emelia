@@ -57,7 +57,7 @@ P{
 }
 
 .grid_item img{
-    max-width: clamp(140px,20dvw,300px);
+    max-width: clamp(110px,20dvw,300px);
     object-fit:contain;
     border-radius: 10px;
 }
@@ -80,9 +80,9 @@ P{
 }
 
 .content_img img{
-    width: clamp(200px,100dvw,400px);
+    width: clamp(150px,90dvw,400px);
     border-radius: 20px;
-    margin: 40px;
+    margin: 20px;
 }
 
 .content{
@@ -104,9 +104,9 @@ P{
 }
 
 .content_img2 img{
-    width: clamp(200px,100dvw,400px);
+    width: clamp(150px,90dvw,400px);
     border-radius: 20px;
-    margin: 40px;
+    margin: 20px;
 }
 
 .content_2{
