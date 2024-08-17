@@ -57,7 +57,7 @@ P{
 }
 
 .grid_item img{
-    max-width: clamp(110px,20dvw,300px);
+    max-width: clamp(40px,25dvw,300px);
     object-fit:contain;
     border-radius: 10px;
 }
